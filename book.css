@@ -1,0 +1,25 @@
+body{
+      background-image: url(book.jfif);
+      height: 100vh;
+      background-size: cover;
+      background-position: center;
+        
+}
+h1{
+      color:blue;
+      text-align: center;
+      text-transform:capitalize ;
+      padding: top 30px;        
+}
+.container{
+           background-color:paleturquoise;
+           text-align: center;
+           padding: 10px;
+           height: 60px;
+             
+}
+.container2
+{            
+      text-align: right;
+      color: red;
+}
